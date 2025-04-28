@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO_noite\\HerancaProduto\\HerancaProduto.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaProduto\\HerancaProduto.csproj",
       "projectName": "HerancaProduto",
-      "projectPath": "C:\\Users\\aluno\\Documents\\POO_noite\\HerancaProduto\\HerancaProduto.csproj",
+      "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaProduto\\HerancaProduto.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\POO_noite\\HerancaProduto\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\POO_noite\\HerancaProduto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
