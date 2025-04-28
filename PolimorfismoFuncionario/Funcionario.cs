@@ -13,8 +13,9 @@ namespace PolimorfismoFuncionario
             Nome = nome;
             Salario = salario;
         }
-        public virtual double CalcularBonificacao()[
-            return Salario * 0.1;
-        ]
+        public virtual double CalcularBonificacao()
+        {
+            return Salario * 0.15;
+        }
     }
 }
