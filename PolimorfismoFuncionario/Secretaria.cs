@@ -10,7 +10,7 @@ namespace PolimorfismoFuncionario
         public Secretaria(int codigo, string nome, double salario) : base(codigo, nome, salario) { }
         public override double CalcularBonificacao()
         {
-            return base:CalcularBonificacao();
+            return base.CalcularBonificacao();
         }
     }
 }
