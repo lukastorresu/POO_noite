@@ -14,5 +14,9 @@ internal class Program
 
         Diretor d = new Diretor(4, "Lia", 1000);
         System.Console.WriteLine($"Bonificação D: {d.CalcularBonificacao():c}");
+
+        Gerenciador gr = new Gerenciador(0);
+        gr.totalBonificacao = TotalizadorBonificacao();
+        System.Console.Writeline($"Total de Bonificação: {gr.totalBonificacao}");
     }
 }
