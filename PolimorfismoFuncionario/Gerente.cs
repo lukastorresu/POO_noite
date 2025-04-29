@@ -9,7 +9,7 @@ namespace PolimorfismoFuncionario
     {
         public Gerente(int codigo, string nome, double salario) : base(codigo, nome, salario){}
         public override double CalcularBonificacao(){
-            return base.CalcularBonificacao() + Salario * 0.05;
+            return Salario * 0.15;
         }
     }
 }
